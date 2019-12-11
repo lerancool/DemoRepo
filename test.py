@@ -18,7 +18,7 @@ print("b = ", b)
 print("c = ", c)
 print("d = ", d)
 
-exit()
+# exit()
 
 
 test = np.array([[1, 2, 3],
